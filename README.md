@@ -11,7 +11,7 @@ The pipeline is fully NumPy-based, lightweight, and designed for scientific visu
 This renderer does not operate in mesh space: no meshes, triangles, or explicit geometric primitives are constructed. Shading is performed entirely in image space using a depth-weighted projection and surface normals estimated from the resulting 2D depth map. The method is not ray tracing, rasterization, or volume ray marching; instead, it relies on relative (ordering-based) depth rather than metric distance. As a result, the rendered output preserves the original spatial dimensions of the projection plane rather than appearing scaled by metric depth.
 
 
-**Dataset**: [*IBSR18:* Internet Brain Segmentation Repository](https://www.nitrc.org/projects/ibsr), [*IBSR:* Internet Brain Segmentation Repository](https://www.nitrc.org/projects/ibsr), [*AbdomenCT_1K*](https://github.com/JunMa11/AbdomenCT-1K)
+**Dataset**: [*IBSR18:* Internet Brain Segmentation Repository](https://www.nitrc.org/projects/ibsr), [*AbdomenCT_1K*](https://github.com/JunMa11/AbdomenCT-1K)
 
  
 ## Input Examples 
