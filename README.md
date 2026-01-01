@@ -25,6 +25,7 @@ This renderer does not operate in mesh space: no meshes, triangles, or explicit 
 
     
 ## Lighting Models 
+While inspired by classical lighting and volume visualization literature, this implementation performs shading entirely in image space and does not implement mesh-based rendering or physical light transport.
 ![organs_lighting](reports/images/organs_lighting.png) 
  
 
@@ -34,3 +35,12 @@ This renderer does not operate in mesh space: no meshes, triangles, or explicit 
 
 ## Organs Overlay Example 
 ![organs_mask_overlay](reports/images/organs_mask_overlay.png)
+
+
+## References
+● Phong, B. T. (1975) “*Illumination for Computer Generated Pictures*”, Communications of the ACM, 18(6), 311–317.
+● Blinn, J. F. (1977) “*Models of Light Reflection for Computer Synthesized Pictures*”, SIGGRAPH.
+● Horn, B. K. P. (1989) “*Height and Gradient from Shading*”, International Journal of Computer Vision.
+● Levoy, M. (1988) “*Display of Surfaces from Volume Data*”, IEEE Computer Graphics and Applications.
+● Hadwiger, M., Berger, C., Kniss, J., Rezk-Salama, C. (2006) “*Real-Time Volume Graphics*”, CRC Press.
+● Kindlmann, G., Whitaker, R., Tasdizen, T., Möller, T. (2003) “*Curvature-Based Transfer Functions for Direct Volume Rendering*”, IEEE Visualization.
