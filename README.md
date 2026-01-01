@@ -38,9 +38,9 @@ While inspired by classical lighting and volume visualization literature, this i
 
 
 ## References
-● Phong, B. T. (1975) “*Illumination for Computer Generated Pictures*”, Communications of the ACM, 18(6), 311–317.
-● Blinn, J. F. (1977) “*Models of Light Reflection for Computer Synthesized Pictures*”, SIGGRAPH.
-● Horn, B. K. P. (1989) “*Height and Gradient from Shading*”, International Journal of Computer Vision.
-● Levoy, M. (1988) “*Display of Surfaces from Volume Data*”, IEEE Computer Graphics and Applications.
-● Hadwiger, M., Berger, C., Kniss, J., Rezk-Salama, C. (2006) “*Real-Time Volume Graphics*”, CRC Press.
-● Kindlmann, G., Whitaker, R., Tasdizen, T., Möller, T. (2003) “*Curvature-Based Transfer Functions for Direct Volume Rendering*”, IEEE Visualization.
+● Phong, B. T. (1975) “*Illumination for Computer Generated Pictures*”, Communications of the ACM, 18(6), 311–317.  
+● Blinn, J. F. (1977) “*Models of Light Reflection for Computer Synthesized Pictures*”, SIGGRAPH.  
+● Horn, B. K. P. (1989) “*Height and Gradient from Shading*”, International Journal of Computer Vision.  
+● Levoy, M. (1988) “*Display of Surfaces from Volume Data*”, IEEE Computer Graphics and Applications.  
+● Hadwiger, M., Berger, C., Kniss, J., Rezk-Salama, C. (2006) “*Real-Time Volume Graphics*”, CRC Press.  
+● Kindlmann, G., Whitaker, R., Tasdizen, T., Möller, T. (2003) “*Curvature-Based Transfer Functions for Direct Volume Rendering*”, IEEE Visualization.  
