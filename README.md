@@ -16,7 +16,7 @@ This renderer does not operate in mesh space: no meshes, triangles, or explicit 
  
 ## Input Examples 
 ![brain_example](reports/images/brain_example.png)
-![brain_example](reports/images/organs_example.png)
+![organs_example](reports/images/organs_example.png)
    
      
 ## Generated 3D Brain Masks 
